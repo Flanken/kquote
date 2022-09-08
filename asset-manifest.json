@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/kquote/static/css/main.1e8bc44d.css",
+    "main.js": "/kquote/static/js/main.3861d379.js",
+    "index.html": "/kquote/index.html",
+    "main.1e8bc44d.css.map": "/kquote/static/css/main.1e8bc44d.css.map",
+    "main.3861d379.js.map": "/kquote/static/js/main.3861d379.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e8bc44d.css",
+    "static/js/main.3861d379.js"
+  ]
+}
