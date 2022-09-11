@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kquote/static/css/main.1e8bc44d.css",
-    "main.js": "/kquote/static/js/main.10fb5006.js",
+    "main.js": "/kquote/static/js/main.adb769af.js",
     "index.html": "/kquote/index.html",
     "main.1e8bc44d.css.map": "/kquote/static/css/main.1e8bc44d.css.map",
-    "main.10fb5006.js.map": "/kquote/static/js/main.10fb5006.js.map"
+    "main.adb769af.js.map": "/kquote/static/js/main.adb769af.js.map"
   },
   "entrypoints": [
     "static/css/main.1e8bc44d.css",
-    "static/js/main.10fb5006.js"
+    "static/js/main.adb769af.js"
   ]
 }
